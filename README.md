@@ -22,6 +22,8 @@ To help project managers and analysts practice gathering requirements from diffe
 | `curator_gpt_instructions.md` | System prompt for the Curator role |
 | `stakeholder_profile_builder_instructions.md` | Prompt for the GPT wizard that builds stakeholder profiles |
 | `stakeholder_gpt_instructions_full_with_help.md` | Combined version of all prompts including Help command |
+| `LICENSE` | CC BY-NC 4.0 license (EN) |
+| `LICENSE_ru.md` | CC BY-NC 4.0 license (RU) |
 
 ## 🚀 Usage
 
@@ -30,4 +32,5 @@ The profile builder can be used to create `.md` profile files that are then load
 
 ## 📜 License
 
-For internal training and simulation use. Not for commercial redistribution without permission.
+📄 [Русская версия лицензии](LICENSE_ru.md)  
+🔗 [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
