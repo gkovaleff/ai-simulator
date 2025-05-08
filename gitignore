@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary or log files
+*.tmp
+*.log
+
+# VS Code settings (optional)
+.vscode/
